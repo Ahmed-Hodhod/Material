@@ -1,2 +1,4 @@
 # Material
-This repo contains the materials for some courses. I use them as a reference and I think they may be useful. 
+Some of the materials I depended on during my learning path. 
+I find them comprehensive and cover most of the basic required skillset. 
+I hope them to be useful for others, as well. 
